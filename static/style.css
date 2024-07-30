@@ -2,6 +2,8 @@ body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: beige;
     margin: 0;
+    display:block;
+    text-align:center;
 }
 
 .container{
@@ -32,7 +34,7 @@ button:hover{
 
 
 .top{
-    background-color: rgba(0,0,0,0.5);
+   
     height: 10vh;
     text-align: center;
     padding: 10px;
@@ -70,7 +72,7 @@ h1{
 }
 
 .main{
-    display: flex;
+   
     height: 90vh; 
     max-width: 98vw;
     margin: auto;
